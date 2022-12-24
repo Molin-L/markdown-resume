@@ -11,37 +11,39 @@ keywords:
   - 'Machine Learning'
 author-meta: 'author: molin liu'
 ---
-###### [[Github](https://github.com/Molin-L)] . [ molinliu@live.com] . [ +65-92457619 ]
+###### [https://github.com/Molin-L] . [ molinliu@live.com] . [ +65-92457619 ]
 ### I am highly motivated and enjoy challenges within a new or existing role, and feel I am flexible enough to meet the needs of any degree course.
 
 ## Skills
-```system architecture & design```
-```trading system design```
+```trading system architecture & design```
 ```performance optimization```
 ```load/stress testing```
 
 
-**Programming**: Golang, C++, Python
-**Databases**: MySQL, Postgres, sqlite, Redis
+**Programming**: Golang, C++, Python, Java
+**Databases**: MySQL, Postgres, Sqlite, Redis
 
 ## Experience
 
 ### Senior Software Engineer, Bybit, Singapore
 Feb 14th 2022 - Present
 
-As a teammember of trading engine, I am responsible for the design and implementation of the trading system, including the order book, matching engine, risk control, and order state machine. I am the owner of the position & order module. I also take part in the design and implementation of the fair price system, including the price calculation algorithm, the risk control system, and the risk control dashboard.
+Development and implementation of the core trading engine. Performance tuning, online incidents troubleshooting, and system refactoring.
+Build the back-testing for fair price service from scratch, to help to evaluate price caculation algorithms and risk control parameters.
+Collaborating with other departments on particular projects as necessary.
 
 ### Software Engineer A, Huawei Technologies Co., Ltd.
 March 21st, 2021 - Feb 14th, 2022, Hangzhou, China
 
-I am responsible for the development of the Huawei Cloud Database Service, the design and implementation of the distributed transaction system for better performance from 900k TPS to 20m TPS. 
+Responsible for the development of the Huawei Cloud Distirbuted Database Service. Design and implement the RDMA module of the distributed storage system for better TPS performance from 900k to 20M. 
 
 ### Platform Developer Intern, Tencent Technologies Co., Ltd.
 May - Sept. 2018, Shenzhen, China
 
-Use Hadoop and Reds to process 20 millions medical terms for text field classification. Improve the performance of word segmentation model. 
+Construct medical lexicon for Chinese text field classification using Hadoop from 20 millions medical terms, which has contributed to improve the performance of word segmentation model.
 
 ## Projects
+*Next Generation Trading System*
 
 
 ## Education 
